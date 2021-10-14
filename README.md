@@ -1,4 +1,4 @@
-# Perfiles de GitHub los alumnos de DAW de la promoción 2021-2023
+# Perfiles de GitHub del alumnado de DAW de la promoción 2021-2023
 
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2021 - 2023
 
