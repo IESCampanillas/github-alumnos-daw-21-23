@@ -13,3 +13,4 @@ Alumnos:
 * [Mostazo Gamez, Alejandro](https://github.com/AlejandroMostazo/Programacion21-22)
 * [Parrado Escribano, Juan Manuel](https://github.com/juanmaparrado/ProgramacionDAW)
 * [Pozo Chinchurreta, José Jesús](https://github.com/Pozooo/progdaw-21-22)
+* [Sánchez González, Hugo](https://github.com/hugosanchezg/Programacion)
