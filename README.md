@@ -12,6 +12,7 @@ Alumnos:
 * [Hernández Mangas, Ernesto](https://github.com/ehm4/ProgDaw-21-22)
 * [Hitos Garcia,Esther](https://github.com/estherhitos/programacion_21-22.git)
 * [Mostazo Gamez, Alejandro](https://github.com/AlejandroMostazo/Programacion21-22)
+* [Muñoz Valenzuela, Miguel Angel](https://github.com/miguelmunval/Ejercicios-Java)
 * [Parrado Escribano, Juan Manuel](https://github.com/juanmaparrado/ProgramacionDAW)
 * [Pozo Chinchurreta, José Jesús](https://github.com/Pozooo/progdaw-21-22)
 * [Ríos González, José Antonio](https://github.com/Joseantoniorios/Progdaw-21-22)
