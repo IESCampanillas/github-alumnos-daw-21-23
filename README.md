@@ -18,3 +18,4 @@ Alumnos:
 * [Malagón Beltrán, Mateo](https://github.com/mateomalagon/programacion21-22)
 * [Bravo Romo, Alfonso Jesús](https://github.com/AlfonsoJBR/Programacion-21-22)
 * [Sánchez Sánchez, María Eugenia](https://github.com/mariasnchez/programacion21-22)
+* [Vargas García, Juan Antonio](https://github.com/juanantoniovargas/progdaw-21-22)
