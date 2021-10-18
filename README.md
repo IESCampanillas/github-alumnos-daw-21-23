@@ -6,6 +6,7 @@ Profesor:
 * [Jiménez Morales, Juan Antº](https://github.com/profesorjim/progdaw-21-22)
 
 Alumnos:
+* [Aguilera García, Alejandro](https://github.com/alejandroAguileraGarcia)
 * [Bautista Somosierra, Francico Alberto](https://github.com/FranciscoBautistaSomo)
 * [González Calderón, Narciso](https://github.com/narsodev/daw-programacion)
 * [Hitos Garcia,Esther](https://github.com/estherhitos/programacion_21-22.git)
