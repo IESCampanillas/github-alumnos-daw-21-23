@@ -7,6 +7,7 @@ Profesor:
 
 Alumnos:
 * [Aguilera García, Alejandro](https://github.com/alejandroAguileraGarcia)
+* [Almellones Fernández,Álvaro](https://https://github.com/Alvaroaf20/programacion21-22)
 * [Bautista Somosierra, Francico Alberto](https://github.com/FranciscoBautistaSomo)
 * [González Calderón, Narciso](https://github.com/narsodev/daw-programacion)
 * [Hernández Mangas, Ernesto](https://github.com/ehm4/ProgDaw-21-22)
