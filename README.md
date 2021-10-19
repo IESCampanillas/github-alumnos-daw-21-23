@@ -26,3 +26,4 @@ Alumnos:
 * [Gil Cortés, Ana Belén](https://github.com/anabelen13/progdaw-21-22)
 * [Sandoval Millán, Agustina Zoe](https://github.com/agustinasandoval/progdaw-21-22)
 * [Sánchez Rojas, Pablo](https://github.com/PabloSanRoj/Programacion)
+* [Urbano Ruz, Alfonso](https://github.com/aUrbano24/Ejercicios-Java)
