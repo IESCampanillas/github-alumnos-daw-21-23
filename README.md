@@ -7,7 +7,7 @@ Profesor:
 
 Alumnos:
 * [Aguilera García, Alejandro](https://github.com/alejandroAguileraGarcia)
-* [Almellones Fernández,Álvaro](https://https://github.com/Alvaroaf20/programacion21-22)
+* [Almellones Fernández, Álvaro](https://github.com/Alvaroaf20/programacion21-22)
 * [Bautista Somosierra, Francico Alberto](https://github.com/FranciscoBautistaSomo)
 * [Bittan Graells, Daniel](https://github.com/danybi/Programacion21-22)
 * [Bósquez Domínguez, Jeramy Marvyc](https://github.com/Jeramyy/progdaw-21-22)
