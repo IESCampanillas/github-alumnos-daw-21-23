@@ -8,7 +8,6 @@ Profesor:
 Alumnos:
 * [Aguilera García, Alejandro](https://github.com/alejandroAguileraGarcia)
 * [Almellones Fernández, Álvaro](https://github.com/Alvaroaf20/programacion21-22)
-* [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion21-23)
 * [Bautista Somosierra, Francico Alberto](https://github.com/FranciscoBautistaSomo)
 * [Bittan Graells, Daniel](https://github.com/danybi/Programacion21-22)
 * [Bósquez Domínguez, Jeramy Marvyc](https://github.com/Jeramyy/progdaw-21-22)
@@ -19,6 +18,7 @@ Alumnos:
 * [Hernández Mangas, Ernesto](https://github.com/ehm4/ProgDaw-21-22)
 * [Hitos Garcia,Esther](https://github.com/estherhitos/programacion_21-22.git)
 * [Malagón Beltrán, Mateo](https://github.com/mateomalagon/programacion21-22)
+* [Manso Pérez, Carlos](https://github.com/CarlosMansoPerez/Programacion)
 * [Mostazo Gamez, Alejandro](https://github.com/AlejandroMostazo/Programacion21-22)
 * [Muñoz Valenzuela, Miguel Angel](https://github.com/miguelmunval/Ejercicios-Java)
 * [Parrado Escribano, Juan Manuel](https://github.com/juanmaparrado/ProgramacionDAW)
